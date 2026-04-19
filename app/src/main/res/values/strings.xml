@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DocAtHome Patient</string>
+    <string name="first_screen1">This is DocAtHome, Welcome!</string>
+    <string name="first_screen2">A health application that helps you to get Care comfortable at home.</string>
+    <string name="first_screen3">GET STARTED</string>
+    <string name="login_Screen1">Sign In</string>
+    <string name="login_Screen2">Enter your account information :</string>
+    <string name="login_Screen3">Don\'t have an account yet? </string>
+    <string name="login_Screen4">Sign Up</string>
+    <string name="unknow_error">An unexpected error occured, please restart the app!</string>
+</resources>
