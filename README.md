@@ -199,16 +199,12 @@ This app communicates with the CareHouse Backend through three main API layers:
 - **Authorization**: Role-based (Patient role ID: 2002)
 
 ## Screens
+| **Splash Screen** - App launch screen | **First Screen** - Welcome/onboarding screen: | **Sign In Screen** - User login |
+|:---:|:---:|:---:|
+| ![splash](screenshots/splash.jpg) | ![onboarding](screenshots/onboarding.jpg) | ![signin](screenshots/signin.jpg) |
+| **Sign Up Screen(1)** - Patient registration |  **Sign Up Screen(1)** - Patient registration | **Home Screen** - Main dashboard |
+| ![signup1](screenshots/signup-1.jpg) | ![signup2](screenshots/signup-2.jpg)||
 
-1. **Splash Screen** - App launch screen
-
-2. **First Screen** - Welcome/onboarding screen
-3. **Sign Up Screen** - Patient registration
-4. **Sign In Screen** - User login
-5. **Home Screen** - Main dashboard
-6. **Appointments Screen** - View and manage appointments
-7. **Profile Screen** - View and edit patient profile
-8. **Reports Screen** - Access medical reports
 
 ## Build Information
 
